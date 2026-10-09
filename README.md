@@ -1,6 +1,6 @@
 # Latihan Praktikum 4 - Pemrograman Mobile
 
-Tugas Praktikum 4 mata kuliah Pemrograman Mobile di Universitas Esa Unggul. Aplikasi ini dibuat menggunakan Flutter untuk mendemonstrasikan penerapan *Design System* sederhana, pembuatan *reusable widget*, dan integrasi link eksternal ke Google Maps.
+Latihan Praktikum 4 mata kuliah Pemrograman Mobile di Universitas Esa Unggul. Aplikasi ini dibuat menggunakan Flutter untuk mendemonstrasikan penerapan *Design System* sederhana, pembuatan *reusable widget*, dan integrasi link eksternal ke Google Maps.
 
 ## Fitur Utama
 
